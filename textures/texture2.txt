@@ -243,4 +243,144 @@ SILVDUCT     64  128
 SLADDUCT     64  128
 * WLA128_1    0    0
 *    DUCT1   20   16
+BSTVINE1    256  128
+*    RW1_1    0    0
+*    RW1_1   64    0
+*    RW1_1  128    0
+*    RW1_1  192    0
+*   W106_1    0    0
+BSTVINE2    256  128
+*    RW1_2    0    0
+*    RW1_2   64    0
+*    RW1_2  128    0
+*    RW1_2  192    0
+*   W106_1    0    0
+BRKVINE1    256  128
+*    RW5_3    0    0
+*    RW5_4   64    0
+*    RW5_3  128    0
+*    RW5_4  192    0
+*   W106_1    0    0
+BRKVINE2    256  128
+*   RW41_3    0    0
+*   RW41_3   64    0
+*   RW41_3  128    0
+*   RW41_3  192    0
+*   W106_1    0    0
+BRKVINE2    256  128
+*   RW41_4    0    0
+*   RW41_4   64    0
+*   RW41_4  128    0
+*   RW41_4  192    0
+*   W106_1    0    0
+STCVINE     256  128
+*    RW8_2    0    0
+*    RW8_3   64    0
+*    RW8_2  128    0
+*    RW8_4  192    0
+*   W106_1    0    0
+STARVIN1    256  128
+*   SW11_1    0    0
+*   SW11_2   32    0
+*   SW16_1   64    0
+*   SW11_2   96    0
+*   SW15_1  128    0
+*   SW16_2  160    0
+*   SW11_1  192    0
+*   SW15_3  224    0
+*   W106_1    0    0
+STARVIN2    256  128
+*   SW12_4    0    0
+*   SW12_5   32    0
+*   SW17_4   64    0
+*   SW12_5   96    0
+*   SW12_4  128    0
+*   SW17_6  160    0
+*   SW12_4  192    0
+*   SW17_5  224    0
+*   W106_1    0    0
+STARVIN3    256  128
+*   SW12_1    0    0
+*   SW12_2   32    0
+*   SW17_1   64    0
+*   SW12_2   96    0
+*   SW18_5  128    0
+*   SW12_2  160    0
+*   SW17_3  192    0
+*   SW17_2  224    0
+*   W107_1    0    0
+ICKVINE1    256  128
+* WALL72_7    0    0
+* WALL72_7    0   64
+* WALL72_7   64    0
+* WALL72_7   64   64
+*    W67_1  128    0
+* WALL72_7  128   64
+* WALL72_7  192    0
+* WALL72_7  192   64
+*   W107_1    0    0
+ICKVINE2    256  128
+* WALL71_5    0    0
+* WALL71_5    0   64
+* WALL71_5   64    0
+* WALL72_5   64   64
+* WALL71_5  128    0
+* WALL71_5  128   64
+* WALL71_5  192    0
+* WALL71_5  192   64
+*   W107_1    0    0
+CRATVIN1    256  128
+* BCRATEL1    0    0
+* BCRATEL1    0   64
+* BCRATER1   32    0
+* BCRATER1   32   64
+* BCRATEL1   64    0
+* BCRATEL1   64   64
+* BCRATER1   96    0
+* BCRATER1   96   64
+* BCRATEL1  128    0
+* BCRATEL1  128   64
+* BCRATER1  160    0
+* BCRATER1  160   64
+* BCRATEL1  192    0
+* BCRATEL1  192   64
+* BCRATER1  224    0
+* BCRATER1  224   64
+*   W106_1    0    0
+CRATVIN2    256  128
+* GCRATEL1    0    0
+* GCRATEL1    0   64
+* GCRATER1   32    0
+* GCRATER1   32   64
+* GCRATEL1   64    0
+* GCRATEL1   64   64
+* GCRATER1   96    0
+* GCRATER1   96   64
+* GCRATEL1  128    0
+* GCRATEL1  128   64
+* GCRATER1  160    0
+* GCRATER1  160   64
+* GCRATEL1  192    0
+* GCRATEL1  192   64
+* GCRATER1  224    0
+* GCRATER1  224   64
+*   W106_1    0    0
+CRATVIN3    256  128
+* GCRATEL1    0    0
+* BCRATEL1    0   64
+* GCRATER1   32    0
+* BCRATER1   32   64
+* BCRATEL1   64    0
+* GCRATEL1   64   64
+* BCRATER1   96    0
+* GCRATER1   96   64
+* BCRATEL1  128    0
+* GCRATEL1  128   64
+* BCRATER1  160    0
+* GCRATER1  160   64
+* GCRATEL1  192    0
+* BCRATEL1  192   64
+* GCRATER1  224    0
+* BCRATER1  224   64
+*   W106_1    0    0
 
