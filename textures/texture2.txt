@@ -38,3 +38,7 @@ BRNCOMP     256  128
 *   RW25_2  192    0
 *  TOMW2_1    0   32
 *  TOMW2_2  128   32
+FLOPPY       16   16
+*   STDISK    0    1
+CDROM        16   16
+*  STCDROM    1    1
