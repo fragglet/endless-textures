@@ -185,4 +185,21 @@ BIGDOORF    128  128
 * DOORTRAK    0  -14
 * DOORTRAK  120  -14
 *  DOOR2_1   16   18
-
+SPCDOORA     64  128
+* DOOR15_1    0    0
+* DOOR15_4    0  -15
+SPCDOORB     64  128
+* DOOR15_2    0    0
+*   RW32_2    0  -15
+SPCDOORC     64  128
+* DOOR15_1    0    0
+*   RW36_1    0  -15
+SPCDOORD     64  128
+* DOOR15_2    0    0
+*    W32_1    0  -23
+* WALL03_1    0   41
+SPCDOORE     64  128
+* DOOR15_2    0    0
+* DOOR15_3    0  -15
+* DOORTRAK   -4  113
+* DOORTRAK   60  113
