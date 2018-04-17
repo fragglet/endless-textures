@@ -142,3 +142,47 @@ DOOMWALL    256  128
 *   RW25_3  128    0
 *   RW25_4  192    0
 *   M_DOOM   65   38
+BODYGRAT     64  128
+*   BODIES    0    0
+*   RW47_1    0    0
+BIGDOORA    128  128
+* SUPPORT2    0    0
+* SUPPORT2    0   64
+* SUPPORT2   24    0
+* SUPPORT2   24   64
+* SUPPORT2   80    0
+* SUPPORT2   80   64
+* SUPPORT2  104    0
+* SUPPORT2  104   64
+* DOOR15_2   32    0
+BIGDOORB    128  128
+* DOOR15_4  -32    0
+* DOOR15_4   96    0
+* DOOR15_1   32    0
+BIGDOORC    128  128
+*  DOOR9_1    0    0
+* WALL42_3    0  -15
+* WALL42_3  104  -15
+BIGDOORD    128  128
+*  DOOR2_4    0    0
+* SUPPORT2    0   16
+* SUPPORT2  104   16
+* SUPPORT2    0   18
+* SUPPORT2  104   18
+* SUPPORT2    0   41
+* SUPPORT2  104   41
+BIGDOORE    128  128
+*  DOOR2_4    0    0
+*  AG128_1    0  -86
+*  AG128_1   64  -86
+* DOORTRAK   -3  -14
+* DOORTRAK  123  -14
+*   CYL1_1    5   42
+BIGDOORF    128  128
+*  DOOR2_4    0    0
+*  AG128_1    0  -14
+*  AG128_2   64  -14
+* DOORTRAK    0  -14
+* DOORTRAK  120  -14
+*  DOOR2_1   16   18
+
